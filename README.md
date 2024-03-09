@@ -4,9 +4,8 @@ Este é um pequeno projeto desenvolvido para testar habilidades para a posição
 
 Link para o Desafio: [Front-end Code Challenge Smart Site](https://github.com/bioritmo/front-end-code-challenge-smartsite)
 
-## Preview
-## Preview
-[![Vídeo do Projeto](https://youtu.be/h3jYJzUkUmM)](https://youtu.be/h3jYJzUkUmM)
+## Veja uma pré-visualização do vídeo no YouTube:
+[![Veja o vídeo](https://img.youtube.com/vi/h3jYJzUkUmM/0.jpg)](https://youtu.be/h3jYJzUkUmM)
 
 ## Funcionalidades
 
