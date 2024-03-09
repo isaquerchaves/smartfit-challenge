@@ -1,0 +1,25 @@
+.legend{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+.legend .images{
+  display: flex;
+}
+.legend .images span{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center; 
+}
+.images span img{   
+  max-width: 40%;
+}
+@media screen and (min-width: 1000px) {
+  .images{   
+    display: flex;
+    flex-direction: row;
+  }
+}

@@ -1,0 +1,17 @@
+button{
+  padding: 0.8rem;
+  border-radius: 0.4rem;
+  width: 100%;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.buttonYellow{
+  background-color: #FFB612;
+  border: 1px solid #FFB612;
+}
+.buttonWhite{
+  background-color: white;
+  border: 3px solid #EDEDED;
+}
