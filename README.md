@@ -16,10 +16,17 @@ Link para o Desafio: [Front-end Code Challenge Smart Site](https://github.com/bi
   - Faz uma busca em todas as unidades disponíveis.
   
 - **Busca de unidades com filtros:**
-  - Considera o status de academias (abertas/fechadas) e período de funcionamento.
+  - Filtra as unidades considerando o status das academias (abertas/fechadas) e o período de funcionamento.
   
 - **Mostrar Unidades ao Buscar:**
   - Exibe a lista de unidades correspondentes à busca.
+ 
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- ReactJS
+- Typescript
+- Axios
 
 ## Instalação
 
