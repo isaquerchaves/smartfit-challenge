@@ -6,7 +6,7 @@ Link para o Desafio: [Front-end Code Challenge Smart Site](https://github.com/bi
 
 ## Preview
 ## Preview
-[![Vídeo do Projeto](https://i.imgur.com/akLALIo.mp4)](https://i.imgur.com/akLALIo.mp4)
+[![Vídeo do Projeto](https://i.imgur.com/akLALIo.mp4)](https://i.imgur.com/akLALIo)
 
 
 ## Funcionalidades
